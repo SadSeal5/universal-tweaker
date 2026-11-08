@@ -1,0 +1,8 @@
+*.zip
+*.tmp
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+mod-settings.dat

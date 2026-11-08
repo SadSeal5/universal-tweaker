@@ -1,0 +1,14 @@
+{
+  "name": "universal-tweaker",
+  "version": "1.0.0",
+  "title": "Universal Entity & Weapon Tweaker",
+  "author": "SadSeal5",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1.0",
+    "? space-age >= 2.1.0",
+    "? quality >= 2.1.0",
+    "? elevated-rails >= 2.1.0"
+  ],
+  "description": "Freely tweak stats and efficiencies of buildings and weapons in Factorio 2.1, both globally and individually."
+}
